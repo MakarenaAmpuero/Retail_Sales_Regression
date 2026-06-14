@@ -1,4 +1,4 @@
-# Retail Sales Prediction Using Machine Learning Models 🛒📊
+# Retail Sales Prediction Using Machine Learning Models
 
 ## Overview
 
